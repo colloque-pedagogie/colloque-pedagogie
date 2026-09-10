@@ -1,0 +1,119 @@
+main:
+ - title: "A propos"
+   url: about
+ - title: "Louvain2027"
+   url: louvain2027
+ - title: "Actes"
+   url: lesactes
+ - title: "Annales"
+   url: annales
+ - title: "Historique"
+   url: historique
+
+hist:
+ - title: "Brest 2025"
+   url: /brest2025/
+ - title: "Lausanne 2023"
+   url: /lausanne2023/
+ - title: "La Rochelle 2021 - 2022"
+   url: /larochelle2021/
+ - title: "Brest 2019"
+   url: /brest2019/
+ - title: "Grenoble 2017"
+   url: /grenoble2017/
+ - title: "Brest 2015"
+   url: /brest2015/
+ - title: "Sherbrooke 2013"
+   url: /sherbrooke2013/
+ - title: "Angers 2011"
+   url: /angers2011/
+ - title: "Brest 2008"
+   url: /brest2008/
+ - title: "Louvain la Neuve 2007"
+   url: /louvain2007/
+ - title: "Lille 2005"
+   url: /lille2005/
+ - title: "Brest 2003"
+   url: /brest2003/
+ - title: "Brest 2001"
+   url: /brest2001/
+
+
+brest2008:
+ - title: "Retour à l'historique"
+   url: /historique
+ - title: "Introduction"
+   url: /brest2008/
+ - title: "Comme si vous y étiez"
+   url: /brest2008/commesivousyetiez
+ - title: "Comités"
+   url: /brest2008/comites
+ - title: "Appel à communications"
+   url: /brest2008/appel
+
+brest2015:
+ - title: "Retour à l'historique"
+   url: /historique
+ - title: "Bienvenue"
+   url: /brest2015/bienvenue
+ - title: "Introduction"
+   url: /brest2015/
+ - title: "Comme si vous y étiez"
+   url: /brest2015/commesivousyetiez
+ - title: "Comités"
+   url: /brest2015/comites
+ - title: "Appel à communications"
+   url: /brest2015/appel
+
+grenoble2017:
+ - title: "Retour à l'historique"
+   url: /historique
+ - title: "Introduction"
+   url: /grenoble2017/
+ - title: "Comités"
+   url: /grenoble2017/comites
+ - title: "Conférenciers"
+   url: /grenoble2017/conferenciers
+
+brest2019:
+ - title: "Retour à l'historique"
+   url: /historique
+ - title: "Introduction"
+   url: /brest2019/
+ - title: "Comités"
+   url: /brest2019/comites
+ - title: "Appel à communications"
+   url: /brest2019/appel
+
+
+larochelle2021:
+ - title: "Retour à l'historique"
+   url: /historique
+ - title: "Introduction"
+   url: /larochelle2021/
+ - title: "Comités"
+   url: /larochelle2021/comites
+ - title: "Appel à communications"
+   url: /larochelle2021/appel
+
+lausanne2023:
+- title: "Introduction"
+  url: /lausanne2023/
+
+brest2025:
+- title: "Retour à l'historique"
+  url: /historique
+- title: "Introduction"
+  url: /brest2025/
+- title: "Comme si vous y étiez"
+  url: /brest2025/commesivousyetiez
+- title: "Comités"
+  url: /brest2025/comites
+- title: "Appel à communications"
+  url: /brest2025/appel
+- title: "Site de cette édition"
+  url: https://qpes2025.sciencesconf.org/
+
+louvain2027:
+- title: "Introduction"
+  url: /louvain2027/

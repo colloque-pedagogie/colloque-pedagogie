@@ -1,0 +1,172 @@
+---
+layout: single
+title: Brest 2019 - Comités
+permalink: /brest2019/comites/
+header:
+  image: /assets/images/bando.png
+sidebar:
+  nav: "brest2019"
+---
+
+## Comité d'orientation :
+
+ - Denis Bédard, Université de Sherbrooke (vice-président)
+ - Julien Douady, Université Grenoble Alpes
+ - Jean-Marie Gilliot, IMT Atlantique
+ - Christine Jacqmot, Université catholique de Louvain
+ - Gilbert Lainey, IMT Atlantique
+ - Denis Lemaître, ENSTA Bretagne
+ - Louise Ménard, Université du Québec à Montréal
+ - Nadine Postiaux, Université Libre de Bruxelles
+ - Yvan Pigeonnat, Institut Polytechnique de Grenoble
+ - Benoît Raucent, Université catholique de Louvain (président)
+ - Olivier Reynet, ENSTA Bretagne
+ - Emmanuel Sylvestre, Université de Lausanne
+ - André Thépaut, IMT Atlantique (vice-président)
+ - Karine Thépot-Caudan, Université de Bretagne Occidentale
+ - Caroline Verzat, ESCP Europe
+ 
+
+## Comité d'organisation :  
+
+ - Catherine Archieri UBO
+ - Catherine Adam ENSTA Bretagne
+ - Dominique Blouet UBO
+ - Anne Bordron UBO
+ - Marie Briec ENSTA Bretagne
+ - Charline Colombier UBO
+ - Priscillia Creach IMT Atlantique
+ - Valérie d’Assignies ESPE Bretagne
+ - Catherine Debay ENSTA Bretagne
+ - Véronique Eouzan IMT Atlantique
+ - Pascale Gautron ENSTA Bretagne
+ - Christiane Gillet ENSTA Bretagne
+ - Jean-Marie Gilliot IMT Atlantique
+ - Colette Griffin ENSTA Bretagne
+ - Sylvie Hobe IMT Atlantique
+ - Laëtitia Innocente UBO
+ - Gilles Jacovetti IMT Atlantique
+ - Marine Karmann IMT Atlantique
+ - Jérôme Kerdreux IMT Atlantique 
+ - Hélène Klucik ENSTA Bretagne
+ - Armelle Lannuzel IMT Atlantique 
+ - Erwan Le Morvan UBO
+ - Denis Lemaitre ENSTA Bretagne
+ - Nathalie Marschal IMT Atlantique
+ - Jean-Pierre Martineau ISEN
+ - Thierry Michot UBO
+ - Michel Morvan IMT Atlantique
+ - Cécile Plaud ENSTA Bretagne
+ - Adeline Picot UBO
+ - Isabelle Quéré UBO
+ - Aurore Quintin IMT Atlantique
+ - Olivier Reynet ENSTA Bretagne
+ - Gwaenaëlle Riou-Azou ESPE Bretagne
+ - Riwalenn Ruault UBO
+ - Maria-Teresa Segarra IMT Atlantique
+ - André Thépaut IMT Atlantique
+ - Karine Thepot-Caudan UBO
+ - Florence Thomas ENSTA Bretagne
+ - Nadia Zeini IMT Atlantique
+
+# Comité de lecture :
+
+ - Julien Douady, Université Grenoble Alpes (Président)
+ - Jean-Louis Allard, CESI Ecole d'ingénieurs
+ - Alexandra Badets, CESI Ecole d'ingénieurs
+ - Hervé Barras, Haute Ecole Pédagogique du Valais
+ - Denis Bédard, Université de Sherbrooke
+ - Bernard Blandin, CESI Ecole d'ingénieurs
+ - Anne Bordron, Université de Bretagne Occidentale
+ - Ludovic Bot, ENSTA Bretagne
+ - Isabelle Bournaud, Université Paris Sud, Université Paris Saclay
+ - Émilie Bouvrand, Université Bretagne Sud
+ - Anne Briançon-Marjollet, Université Grenoble Alpes
+ - Michel Briand, IMT Atlantique
+ - Philippe Brulard, Université Grenoble Alpes
+ - Mikaël Cabon, ISEN Yncréa Ouest
+ - Judith Cantin, Polytechnique Montréal
+ - Jean-Loup Castaigne, IMT Atlantique
+ - Myriam Chesneau, Université Savoie Mont Blanc
+ - Sorana Cimpan, Université Savoie Mont Blanc
+ - Catherine, Couturier, Université d'Artois
+ - Jean-Luc Cracowski, Université Grenoble Alpes
+ - Maëlle Crosse, Université de La Rochelle
+ - Amaury Daele, Haute Ecole Pédagogique du Canton de Vaud (HEP-VD)
+ - Nathalie Debski, Université d'Angers
+ - Jacques Dejou, Aix-Marseille université
+ - Véronique Depoutot, Université Paris-Sud
+ - Céline Douzet, Université de Nantes
+ - Delphine Ducarme, Université Catholique de Louvain
+ - Aurélie Dupré, Université de Lille
+ - Laure Endrizzi, Institut français de l'éducation - ENS de Lyon
+ - Claudia Enrech, UniLaSalle
+ - Benoît Escrig, Toulouse INP
+ - Aurélie Féron, Grenoble INP
+ - Jean-Louis Ferrarini, Université Savoie Mont Blanc
+ - Alcino Ferreira, École Navale
+ - Lina Forest, Polytechnique Montréal
+ - Brigitte Gassie, Université de Nantes
+ - Marion Gaudenzi, Université de Strasbourg
+ - Philippe-Didier Gauthier, Université Catholique de l'Ouest
+ - Jean-Michel Genevaux, Le Mans Université
+ - Jean-Marie Gilliot, IMT atlantique
+ - Michel Goldberg, Université de La Rochelle
+ - Stéphanie Guibert, CESI Ecole d'ingénieurs
+ - Stéphane Guillet, Grenoble INP
+ - Mathieu Hainselin, Université de Picardie Jules Verne
+ - Christian Hoffmann, Université Grenoble Alpes
+ - Siara Isaac, EPFL (Lausanne)
+ - Gilles Jacovetti, IMT Atlantique
+ - Christine Jacqmot, Université Catholique de Louvain
+ - Benoît Jacquet-Faucillon, Université Paris-Est-Marne-la-Vallée
+ - Chrystel Jeandot, Université Paris Est
+ - Marthe-Aline Jutand, Université de Bordeaux
+ - Marine Karmann, IMT Atlantique
+ - Sophie Kennel, Université de Strasbourg
+ - Sacha Kiffer, Université Rennes 2
+ - Anastassis Kozanitis, Université du Québec à Montréal
+ - Eric Lafon, Université Jean Monnet, Saint-Etienne
+ - Gilbert Lainey, IMT Atlantique
+ - Jacques Lanarès, Université de Lausanne
+ - Gaël Latour, Université Paris-Sud
+ - Diane Leduc, Université du Québec à Montréal
+ - Sarah Lemarchand, Télécom ParisTech
+ - Christelle Lison, Université de Sherbrooke
+ - Nathalie Lusson, Université d'Angers
+ - Arnold Magdelaine, Université de Nantes
+ - Claude Maranges, INSA Toulouse
+ - Jean-Pierre Martineau, ISEN Yncrea Ouest
+ - Yves Mauffette, Université du Québec à Montréal
+ - Claude Maury, CEFI
+ - Louise Ménard, Université du Québec à Montréal
+ - Florian Meyer, Université de Sherbrooke
+ - Thierry Michot, Université de Bretagne Occidentale
+ - Camila Morais Canellas, Sorbonne Université
+ - Isabelle Nizet, Université de Shebrooke
+ - Yvan Pigeonnat, Grenoble INP
+ - Gilles Pinte, Université de Bretagne Sud
+ - Cécile Plaud, ENSTA Bretagne
+ - Jean-Yves Poitrat, Ecole Nationale des Ponts et Chaussées
+ - Martine Pons, Université Grenoble Alpes
+ - Nadine Postiaux, Université libre de Bruxelles
+ - Charlotte Pourcelot, Université Paris-Est
+ - Olivier Reynet, ENSTA Bretagne
+ - Christophe Romano, INSA Toulouse
+ - Catherine Sablé, IMT Atlantique
+ - Bernard Sarrazy, Université de Bordeaux
+ - Morgan Saveuse, CESI Ecole d'ingénieurs
+ - Maria-Teresa Segarra, IMT Atlantique
+ - Sophie Serindat, Université Clermont Auvergne
+ - Piotr Sobiezky, Université Catholique Louvain
+ - Alain Stockless, Université du Québec à Montréal
+ - Emmanuel Sylvestre, Université de Lausanne
+ - André Thépaut, IMT Atlantique
+ - Eric Uyttebrouck, Université libre de Bruxelles
+ - Catherine Vauclair, CESI Ecole d'ingénieurs
+ - Mathieu Vermeulen, IMT Lille Douai
+ - Caroline Verzat, ESCP EUROPE
+ - Emmanuelle Villiot-Leclercq, Grenoble Ecole de Management
+ - Stella Vonie, Université de Strasbourg
+ - Pascal Vrignat, Université d'Orléans
+ - Simon Zingaretti, Université de Strasbourg
